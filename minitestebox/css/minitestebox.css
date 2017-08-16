@@ -1,0 +1,14 @@
+
+
+.wraper{
+    border: 1px solid red;
+     height: 100%   
+}
+
+.carro{
+    border: 1px solid red;
+}
+
+.bicicleta{
+    border: 1px solid black;
+}
